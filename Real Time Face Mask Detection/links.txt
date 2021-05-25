@@ -1,0 +1,2 @@
+dataset link : https://www.kaggle.com/andrewmvd/face-mask-detection
+project link :https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
