@@ -1,3 +1,11 @@
 dataset link : https://www.kaggle.com/andrewmvd/face-mask-detection
 project link :https://thecleverprogrammer.com/2020/12/27/real-time-face-mask-detection-with-python/
+<<<<<<< HEAD
 		https://www.pyimagesearch.com/2020/05/04/covid-19-face-mask-detector-with-opencv-keras-tensorflow-and-deep-learning/
+=======
+
+Readings:
+https://www.mygreatlearning.com/blog/real-time-face-detection/
+
+https://link.springer.com/chapter/10.1007%2F978-981-33-4236-1_16
+>>>>>>> 76985bf302d17d7d719625404207fddf6d0387c3
